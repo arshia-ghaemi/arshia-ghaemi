@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Arshia
 
-<!--
-**arshia-ghaemi/arshia-ghaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Front-End Developer | Freelancer  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- ✅ HTML  
+- ✅ CSS  
+- ✅ Tailwind CSS  
+- ⚡ JavaScript (Intermediate → Advancing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+I work as a freelance Front-End Developer, building modern, responsive, and user-focused web interfaces.  
+I focus on clean code, scalable structure, and best practices (including BEM methodology).
+
+### 🎯 Current Goals
+- Mastering JavaScript at an advanced level  
+- Improving problem-solving skills  
+- Building real-world, production-ready projects  
+
+---
+
+⭐ Always learning. Always building.
