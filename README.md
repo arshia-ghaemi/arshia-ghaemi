@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm AmirArshia Ghaemi
 
-### Front-End Developer • Software Engineering Student • React Enthusiast
+### Front-End Developer • Software Engineering Student 
 
 I enjoy building modern web applications with clean UI, smooth user experience, and maintainable code.
 
